@@ -1,0 +1,68 @@
+[
+    {
+      "areaName": "Taksim",
+      "locations": [
+        { "name": "Galata Tower", "category": "Historical", "rating": 4.8, "reviews": 15420, "description": "Built in 1348, this tower offers 360-degree views.", "bestComment": "Breathtaking views at sunset!" },
+        { "name": "Istiklal Street", "category": "Shopping", "rating": 4.5, "reviews": 85000, "description": "1.4km pedestrian street with shops and cafes.", "bestComment": "The heart of the city." },
+        { "name": "Pera Museum", "category": "Cultural", "rating": 4.7, "reviews": 4200, "description": "Art museum focused on Orientalist painting.", "bestComment": "The Tortoise Trainer is a must-see." },
+        { "name": "Flower Passage", "category": "Historical", "rating": 4.3, "reviews": 5100, "description": "Historic arcade with restaurants and pubs.", "bestComment": "Atmosphere is very nostalgic." },
+        { "name": "Saint Antoine Church", "category": "Historical", "rating": 4.7, "reviews": 6800, "description": "Largest Catholic church in Istanbul.", "bestComment": "Peaceful place in the middle of chaos." },
+        { "name": "Nevizade Street", "category": "Party", "rating": 4.2, "reviews": 7500, "description": "Famous street for mezes and nightlife.", "bestComment": "Best place for a long night with friends." },
+        { "name": "Salt Beyoglu", "category": "Cultural", "rating": 4.6, "reviews": 2100, "description": "Contemporary art and research center.", "bestComment": "Great exhibitions and free entry!" },
+        { "name": "Sahika", "category": "Party", "rating": 5.0, "reviews": 4000, "description": "A safe club for queer people.", "bestComment": "Stage is on fire." }
+      ]
+    },
+    {
+      "areaName": "Kadikoy",
+      "locations": [
+        { "name": "Moda Seaside", "category": "Cultural", "rating": 4.9, "reviews": 12300, "description": "Perfect place to watch the Marmara Sea.", "bestComment": "Best spot to relax with a coffee." },
+        { "name": "Barlar Sokagi", "category": "Party", "rating": 4.3, "reviews": 5600, "description": "Vibrant nightlife and diverse pubs.", "bestComment": "The soul of Kadikoy nightlife." },
+        { "name": "Akmar Passage", "category": "Shopping", "rating": 4.4, "reviews": 3100, "description": "Historic second-hand book shops.", "bestComment": "Paradise for bookworms." },
+        { "name": "Haydarpasa Station", "category": "Historical", "rating": 4.8, "reviews": 9200, "description": "Neo-renaissance railway station icon.", "bestComment": "Architectural masterpiece." },
+        { "name": "Sureyya Opera House", "category": "Cultural", "rating": 4.8, "reviews": 3400, "description": "The first musical theater on the Asian side.", "bestComment": "Interiors are simply stunning." },
+        { "name": "Kadikoy Fish Market", "category": "Shopping", "rating": 4.5, "reviews": 11000, "description": "Traditional street market for fresh food.", "bestComment": "Great street food and vibe." },
+        { "name": "Bagdat Avenue", "category": "Shopping", "rating": 4.6, "reviews": 45000, "description": "High-end shopping street (14km long).", "bestComment": "Luxury shops and great atmosphere." }
+      ]
+    },
+    {
+      "areaName": "Besiktas",
+      "locations": [
+        { "name": "Dolmabahce Palace", "category": "Historical", "rating": 4.9, "reviews": 25000, "description": "Residence of Ottoman Sultans and Ataturk.", "bestComment": "The crystal chandelier is insane." },
+        { "name": "Carsi", "category": "Shopping", "rating": 4.6, "reviews": 18000, "description": "Dynamic center with markets and food.", "bestComment": "Eat 'Doner' here! High energy." },
+        { "name": "Maritime Museum", "category": "Cultural", "rating": 4.7, "reviews": 2800, "description": "Largest naval museum in Turkey.", "bestComment": "Imperial boats are stunning." },
+        { "name": "Yildiz Park", "category": "Cultural", "rating": 4.6, "reviews": 8900, "description": "Huge historic park with pavilions.", "bestComment": "Great for a morning walk." },
+        { "name": "Ortakoy Mosque", "category": "Historical", "rating": 4.8, "reviews": 21000, "description": "Baroque mosque right on the Bosphorus.", "bestComment": "Eat kumpir while watching the view." },
+        { "name": "Ihlamur Pavilion", "category": "Historical", "rating": 4.6, "reviews": 4100, "description": "Former imperial summer residence.", "bestComment": "Quiet and beautiful architecture." }
+      ]
+    },
+    {
+      "areaName": "Fatih",
+      "locations": [
+        { "name": "Hagia Sophia", "category": "Historical", "rating": 4.9, "reviews": 120000, "description": "Marvel of Byzantine architecture.", "bestComment": "A spiritual and architectural feeling." },
+        { "name": "Grand Bazaar", "category": "Shopping", "rating": 4.4, "reviews": 150000, "description": "One of the oldest covered markets.", "bestComment": "Don't forget to haggle!" },
+        { "name": "Topkapi Palace", "category": "Historical", "rating": 4.8, "reviews": 65000, "description": "Primary residence of the Ottoman Sultans.", "bestComment": "The Harem section is very interesting." },
+        { "name": "Blue Mosque", "category": "Historical", "rating": 4.7, "reviews": 85000, "description": "Famous for its blue tiles and 6 minarets.", "bestComment": "Incredible dome architecture." },
+        { "name": "Basilica Cistern", "category": "Historical", "rating": 4.8, "reviews": 42000, "description": "Subterranean Roman water reservoir.", "bestComment": "Medusa heads are mysterious." },
+        { "name": "Suleymaniye Mosque", "category": "Historical", "rating": 4.9, "reviews": 32000, "description": "Masterpiece of Mimar Sinan.", "bestComment": "Best panoramic view of Istanbul." },
+        { "name": "Chora Church", "category": "Cultural", "rating": 4.7, "reviews": 5600, "description": "Byzantine mosaics and frescoes.", "bestComment": "Best mosaic art in the world." }
+      ]
+    },
+    {
+      "areaName": "Sariyer",
+      "locations": [
+        { "name": "Emirgan Park", "category": "Cultural", "rating": 4.8, "reviews": 15000, "description": "Famous for the Tulip Festival.", "bestComment": "Go in April for the tulip blossoms." },
+        { "name": "Rumeli Fortress", "category": "Historical", "rating": 4.7, "reviews": 8400, "description": "Built to control the Bosphorus traffic.", "bestComment": "Hard climb but worth the view." },
+        { "name": "Ataturk Arboretum", "category": "Cultural", "rating": 4.9, "reviews": 12000, "description": "Living tree museum with lakes.", "bestComment": "Perfect for autumn photography." },
+        { "name": "Istinye Park", "category": "Shopping", "rating": 4.7, "reviews": 38000, "description": "High-end shopping mall with open court.", "bestComment": "Top luxury brands here." },
+        { "name": "Sadberk Hanim Museum", "category": "Cultural", "rating": 4.6, "reviews": 1200, "description": "Private museum in a historic mansion.", "bestComment": "Hidden gem of the Bosphorus." }
+      ]
+    },
+    {
+      "areaName": "Beyoglu",
+      "locations": [
+        { "name": "Galataport", "category": "Shopping", "rating": 4.7, "reviews": 22000, "description": "Modern cruise terminal and mall.", "bestComment": "Walking by the sea is great." },
+        { "name": "Istanbul Modern", "category": "Cultural", "rating": 4.8, "reviews": 6500, "description": "Modern and contemporary art museum.", "bestComment": "Renzo Piano's building is a work of art." },
+        { "name": "Cicek Pasaji", "category": "Cultural", "rating": 4.4, "reviews": 5000, "description": "Historic passage for dining.", "bestComment": "Nostalgic atmosphere." }
+      ]
+    }
+  ]
